@@ -1,0 +1,11 @@
+answer_to_q1,answer_to_q2,answer_to_q3,answer_to_q4,answer_to_q5,age,gender,occupation
+1,2,9,Difference-Honoring,No,20,Male,Student
+2,2,10,Difference-Honoring,Yes,48,Female,Professor/Doctor
+1,1,8,Difference-Honoring,No,20,Male,Student
+2,3,9,Difference-Honoring,No,19,Male,Student
+6,4,8,Difference-Denying,No,21,Female,Student
+1,2,8,Difference-Honoring,No,59,Male,Teacher
+2,3,7,Difference-Honoring,No,20,Male,Student
+1,4,8,Difference-Honoring,No,21,Male,Gardener
+5,5,7,Difference-removing,Yes,32,Female,life-nurturer
+1,1,10,Difference-Honoring,No,21,Male,Student
